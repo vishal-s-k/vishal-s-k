@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 <h1>Hi, I'm Vishal! <br/><a href="https://github.com/vishal-s-k">Programmer</a>, <a href="https://www.linkedin.com/in/vishal-s-k/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -32,6 +34,8 @@
 -->
 
 <h2> 🤳 Connect with me:</h2>
+  
+ <i class="material-icons">add</i>
 
 [<img align="left" alt="Vishal_SK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Vishal_SK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -43,8 +47,3 @@
 [instagram]: https://www.instagram.com/_vishal_sk/
 [linkedin]: https://www.linkedin.com/in/vishal-s-k/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
