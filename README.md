@@ -3,13 +3,13 @@
 <h1>Hi, I'm Vishal! <br/> <a href="https://github.com/vishal-s-k">🔐 Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/vishal-s-k/">Cybersecurity Professional</a> 
 
 
-🔭 Currently hacking away as a Bug Bounty Hunter @ Bugcrowd & HackerOne 🕵️‍♂️💥
-🌱 Leveling up my skills in VAPT | On the TryHackMe Jr. Pentester Pathway 👨‍🎓💻
-👯 Always up for collaborating on beginner-friendly cybersecurity projects 🚀🖥️
-🤔 Looking for remote entry-level opportunities in Cybersecurity (SOC Analyst | VAPT) 🧑‍💼🔍
-💬 Hit me up about anything you think is cool or interesting 🤠
-📫 Reach me at: vishal_sk@icloud.com | vishal_s_k@outlook.com 📬
-⚡ Fun Fact: I can solve a 3x3 Rubik’s Cube in under 2 minutes! 🧊⏱️
+🔭 Currently hacking away as a Bug Bounty Hunter @ Bugcrowd & HackerOne 🕵️‍♂️💥<br>
+🌱 Leveling up my skills in VAPT | On the TryHackMe Jr. Pentester Pathway 👨‍🎓💻<br>
+👯 Always up for collaborating on beginner-friendly cybersecurity projects 🚀🖥️<br>
+🤔 Looking for remote entry-level opportunities in Cybersecurity (SOC Analyst | VAPT) 🧑‍💼🔍<br>
+💬 Hit me up about anything you think is cool or interesting 🤠<br>
+📫 Reach me at: vishal_sk@icloud.com | vishal_s_k@outlook.com 📬<br>
+⚡ Fun Fact: I can solve a 3x3 Rubik’s Cube in under 2 minutes! 🧊⏱️<br>
 
 
 <!--<h2>👨‍💻 Software Development Projects:</h2>
