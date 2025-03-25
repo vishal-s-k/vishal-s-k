@@ -1,15 +1,15 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<h1>Hi, I'm Vishal! <br/> <a href="https://github.com/vishal-s-k">Programmer</a>, <a href="https://www.linkedin.com/in/vishal-s-k/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Vishal! <br/> <a href="https://github.com/vishal-s-k">🔐 Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/vishal-s-k/">Cybersecurity Professional</a> 
 
 
-- 🔭 I’m currently working on Bug Bounty Hunting @ Bugcrowd & HackerOne 🤑
-- 🌱 I’m currently learning VAPT | Try Hack Me Pathways to Jr.Pentester 👨‍🎓
-- 👯 I’m looking to collaborate on beginner projects in cybersecurity 🖥️
-- 🤔 I’m looking for help with a remote entry-level job in cybersecurity ( SOC Analyst/ VAPT ) 🧑‍💼
-- 💬 Ask me about anything that interests me 🤠
-- 📫 How to reach me: vishal_sk@icloud.com | vishal_s_k@outlook.com 📬
-- ⚡ Fun fact: One fun fact about me is that I can solve a 3x3 Rubik's Cube in under two minutes! 🧊
+🔭 Currently hacking away as a Bug Bounty Hunter @ Bugcrowd & HackerOne 🕵️‍♂️💥
+🌱 Leveling up my skills in VAPT | On the TryHackMe Jr. Pentester Pathway 👨‍🎓💻
+👯 Always up for collaborating on beginner-friendly cybersecurity projects 🚀🖥️
+🤔 Looking for remote entry-level opportunities in Cybersecurity (SOC Analyst | VAPT) 🧑‍💼🔍
+💬 Hit me up about anything you think is cool or interesting 🤠
+📫 Reach me at: vishal_sk@icloud.com | vishal_s_k@outlook.com 📬
+⚡ Fun Fact: I can solve a 3x3 Rubik’s Cube in under 2 minutes! 🧊⏱️
 
 
 <!--<h2>👨‍💻 Software Development Projects:</h2>
