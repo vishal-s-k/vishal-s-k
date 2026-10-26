@@ -1,48 +1,17 @@
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+# Hi, I'm Vishal 👋
 
-<h1>Hi, I'm Vishal! <br/> <a href="https://github.com/vishal-s-k">🔐 Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/vishal-s-k/">Cybersecurity Professional</a> 
+### Technology × AI × Business × Product
 
+I explore ideas at the intersection of technology, artificial intelligence, business, and product thinking — researching problems, building solutions, and experimenting with what’s possible.
 
-🔭 Currently hacking away as a Bug Bounty Hunter @ Bugcrowd & HackerOne 🕵️‍♂️💥<br>
-🌱 Leveling up my skills in VAPT | On the TryHackMe Jr. Pentester Pathway 👨‍🎓💻<br>
-👯 Always up for collaborating on beginner-friendly cybersecurity projects 🚀🖥️<br>
-🤔 Looking for remote entry-level opportunities in Cybersecurity (SOC Analyst | VAPT) 🧑‍💼🔍<br>
-💬 Hit me up about anything you think is cool or interesting 🤠<br>
-📫 Reach me at: vishal_sk@icloud.com | vishal_s_k@outlook.com 📬<br>
-⚡ Fun Fact: I can solve a 3x3 Rubik’s Cube in under 2 minutes! 🧊⏱️<br>
+🔭 **Exploring:** AI, emerging technologies, and practical applications  
+🧠 **Interested in:** Product strategy, systems thinking, and business models  
+🛠️ **Building:** Experiments, prototypes, and technology-driven projects  
+🔬 **My approach:** Understand → Research → Build → Test → Iterate  
+🌱 **Always learning:** From software development and automation to AI-powered systems  
+🤝 **Open to:** Collaborations, interesting problems, and ideas worth exploring  
 
+I believe the best way to understand an idea is to investigate it, build it, test it, and keep improving it.
 
-<!--<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Social Media Webapp with Python (AlgoExpert)</b>
-  - [Full Stack Web Development](https://github.com/vishal-s-k/social)
-  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Pentesting Automation</b>
-  - [Pentester](https://github.com/vishal-s-k/social)
-  <br> -->
-<!--
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
--->
-
-<!--<h2> 🤳 Connect with me:</h2>
-  
-
-
-[<img align="left" alt="Vishal_SK | YouTube" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Vishal_SK | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vishal_SK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vishal_SK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/_Vishal_S_K
-[youtube]: https://www.youtube.com/@vishalcruze29
-[instagram]: https://www.instagram.com/_vishal_sk/
-[linkedin]: https://www.linkedin.com/in/vishal-s-k/
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vishal-s-k/)
 
